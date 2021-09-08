@@ -28,7 +28,7 @@ function App() {
                   Reports</li>
               </ul>
               <div class="d-grid">
-                <a href="#" class="btn btn-primary text-uppercase">Button</a>
+                <button class="btn btn-primary text-uppercase">Button</button>
               </div>
             </div>
           </div>
@@ -52,7 +52,7 @@ function App() {
                   Reports</li>
               </ul>
               <div class="d-grid">
-                <a href="#" class="btn btn-primary text-uppercase">Button</a>
+                <button class="btn btn-primary text-uppercase">Button</button>
               </div>
             </div>
           </div>
@@ -77,7 +77,7 @@ function App() {
                 <li><span class="fa-li"><i class="fas fa-check"></i></span>Monthly Status Reports</li>
               </ul>
               <div class="d-grid">
-                <a href="#" class="btn btn-primary text-uppercase">Button</a>
+                <button class="btn btn-primary text-uppercase">Button</button>
               </div>
             </div>
           </div>
